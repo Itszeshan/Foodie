@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Foodie</string>
+    <string name="slogan">Eat like you mean it, No matter where you are, Foodie lets you order your favorite food from your favorite restaurants in no time.</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">2360131720889705</string>
+    <string name="facebook_login_protocol_name">fb2360131720889705</string>
+</resources>
